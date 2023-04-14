@@ -1,5 +1,6 @@
 # About 
 - This project is Drum Machine
+- You can view with this link: https://drum-machine-henna-omega.vercel.app/
 
 # Setups of Project
 - React for build frontend
